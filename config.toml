@@ -1,0 +1,4 @@
+baseURL = "http://www.elindalo.es"
+languageCode = "en-us"
+title = "El Indalo"
+theme = "ananke"
