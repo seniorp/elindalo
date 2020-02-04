@@ -1,0 +1,2 @@
+empty file for git
+git does not save empty folders
