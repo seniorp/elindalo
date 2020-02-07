@@ -1,5 +1,5 @@
 ---
-title: "Immigration for Brits still as EU Citizen"
+title: "Immigration for Brits - still count as an EU Citizen"
 date: 2020-02-04T09:58:08+01:00
 draft: false
 ---
