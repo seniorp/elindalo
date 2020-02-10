@@ -2,7 +2,7 @@
 title: "High Quality BBC Radio in Spain"
 date: 2020-02-04T09:48:36+01:00
 draft: false
-
+featured_image: "/images/radio.jpg"
 ---
 
 When you are abroad the BBC limit the radio you can receive via iPlayer to lower bandwidth streams.  However every BBC radio station has a high quality stream which is only available in the UK.  Even there, these are not widely advertised.
