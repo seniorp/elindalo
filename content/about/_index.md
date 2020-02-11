@@ -3,7 +3,7 @@ title: "About"
 description: "a British immigrant in Almería"
 featured_image: ""
 ---
-{{< figure src="/images/almeriapuerto1.jpg" title="The port of Almería at sunset" >}}
+{{< figure src="/images/almeriapuerto1.jpg" title="Almería at sunset" >}}
 
 I came to Spain in 2016.  I lived in Girona and later moved south via Malaga to Almeria.
 
