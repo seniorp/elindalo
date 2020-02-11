@@ -2,7 +2,7 @@
 title: "Another substantial increase in minimum wage"
 date: 2020-02-02T09:58:08+01:00
 draft: false
-featured_image: "images/pabloiglesias1.jpg"
+featured_image: "/images/pabloiglesias1.jpg"
 ---
 
 
