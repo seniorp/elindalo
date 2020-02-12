@@ -17,6 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
+  mainSections = ["blog", "docs"]
   description = "a British immigrant in Almería"
   custom_css = ["css/custom.css"]
   facebook = ""
