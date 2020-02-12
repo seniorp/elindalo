@@ -2,7 +2,7 @@
 title: "January in Almeria"
 date: 2020-01-23T09:27:45+01:00
 draft: false
-featured_image: ""
+featured_image: "/images/eneropueblo.jpg"
 ---
 
 January 2020 is cool and damp in the capital.  In the mountains it's cold and there's snow at the top of the higher ones.
