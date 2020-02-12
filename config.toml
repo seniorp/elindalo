@@ -1,4 +1,4 @@
-baseURL = "https://keen-swirles-382f2c.netlify.com"
+baseURL = "http://www.elindalo.es"
 languageCode = "en-us"
 title = "El Indalo"
 theme = "gohugo-theme-ananke"
