@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  mainSections = ["blog", "docs"]
+#  mainSections = ["blog", "docs"] this blanks the front page after images, must need something set up elsewhere, doesn't affect headings at top 
   description = "a British immigrant in Almería"
   custom_css = ["css/custom.css"]
   facebook = ""
