@@ -2,6 +2,7 @@
 title: "January in Almeria"
 date: 2020-01-23T09:27:45+01:00
 draft: false
+omit_header_text: true
 featured_image: "/images/eneropueblo.jpg"
 ---
 

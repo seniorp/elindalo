@@ -2,6 +2,7 @@
 title: "Otro Aumento en el Salario Minimo"
 date: 2020-02-11T11:46:59+01:00
 draft: true
+omit_header_text: true
 ---
 
 El gobierno de coalición aumentó el salario mínimo para los empleados a tiempo completo a 950 euros con 14 pagos al año. Esto se basa en el aumento del 22,3% de 735 a 900 euros introducido por el gobierno socialista en funciones_ el año pasado.
