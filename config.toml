@@ -1,4 +1,4 @@
-baseURL = "http://www.elindalo.es"
+baseURL = "https://www.elindalo.es"
 languageCode = "en-us"
 title = "El Indalo"
 theme = "gohugo-theme-ananke"
