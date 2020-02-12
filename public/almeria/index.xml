@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Almeria on El Indalo</title>
+    <link>https://www.elindalo.es/almeria/</link>
+    <description>Recent content in Almeria on El Indalo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2020 12:30:17 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.elindalo.es/almeria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Is Content</title>
+      <link>https://www.elindalo.es/almeria/this-is-content/</link>
+      <pubDate>Wed, 12 Feb 2020 12:30:17 +0100</pubDate>
+      
+      <guid>https://www.elindalo.es/almeria/this-is-content/</guid>
+      <description>This is in the posts directory all the same we don&amp;rsquo;t seem to have a content folder. It has no image.</description>
+    </item>
+    
+  </channel>
+</rss>
