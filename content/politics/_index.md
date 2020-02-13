@@ -2,6 +2,7 @@
 title: "Politics"
 date: 2020-02-13T12:25:12+01:00
 draft: false
+featured_image: /images/congdip.jpg
 ---
 
 A new government took office recently; King Felipe VI opened the legislature on 3 February 2020. The government is a coalition led by President Pedro Sánchez of the left leaning _PSOE_ (Spanish Socialist Workers Party) and the relative newcomer _Podemos_ ("We Can") who are a bit further to the left.
