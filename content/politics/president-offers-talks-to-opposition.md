@@ -11,4 +11,4 @@ With at least three opposition parties, the right wing have been battling to pro
 
 _Ciudadanos_ had a "no to Sanchez" campaign on the basis that he supports the "_golpistas_" being the label they've put on the Independentist Catalans.  Unfortunately for them this resulted in their taking a battering at the last general election, when they saw their number of seats reduced from 50 odd to 10.  Their leader Albert Rivera resigned shortly afterwards.
 
-So at Question time in parliament the other day, all the opposition parties did their usual "slag off Sanchez" act.  The President, instead of responding in kind, looked at the leader of the Opposition Pablo Casado and offered him talks on things that matter to Spaniards: the problems of Catalunya, pensions, housing amongst others.
+So at Question time in parliament the other day, all the opposition parties did their usual "slag off Sanchez" act.  The President, instead of responding in kind, looked at the leader of the Opposition Pablo Casado and offered him talks on things that matter to Spaniards: the problems of Catalunya, pensions, and regional finance, amongst others.
