@@ -16,4 +16,4 @@ The case that struck most, among all the groups affected, is that of immigrants 
 
 Alston has also highlighted how many gypsies live, building their own “shanty houses” in garbage dumps outside several cities, evictions or people who have to choose between eating three times a day or just once to be able to turn on the heating.
 
-Loosley translated from _La Vanguardia_, February 2020
+Loosely translated from _La Vanguardia_, February 2020
